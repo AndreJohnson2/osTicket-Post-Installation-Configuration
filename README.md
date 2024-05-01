@@ -1,1 +1,1 @@
-# osTicket-Post-Installation-Configuration
+#post-install-config
